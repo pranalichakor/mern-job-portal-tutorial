@@ -58,7 +58,7 @@ flowchart TD
 ---
 📘 Full Tutorial (All Chapters Included)
 🔗 Explore the entire step-by-step tutorial here:
-👉 View on Code2Tutorial.com
+👉 [View on Code2Tutorial.com](https://code2tutorial.com/tutorial/907f3622-01a3-4e27-83a3-767dd6bd7a21/index.md)
 
 🧠 Topics Covered
 🔐 Authentication with JWT
