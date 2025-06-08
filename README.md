@@ -8,7 +8,13 @@ A full-featured **Job Portal** built using the **MERN Stack**.
 
 ---
 
-## 🔎 Visual Overview
+
+```markdown
+# Tutorial: Job Portal
+
+This project is a **job portal** that connects *job seekers* and *recruiters*...
+
+## 🔍 Visual Overview
 
 ```mermaid
 flowchart TD
@@ -21,18 +27,14 @@ flowchart TD
     A6["Authentication & Authorization Middleware"]
     A7["Frontend State Management (Redux Toolkit)"]
 
-    A7 -->|Triggers API Calls| A5
-    A5 -->|Applies Security| A6
-    A6 -->|Verifies User| A0
-    A5 -->|Interacts with Data| A4
-    A5 -->|Updates Frontend| A7
-    A1 -->|Companies Post Jobs| A2
-    A0 -->|Users Apply| A3
-    A2 -->|Jobs Receive Applications| A3
-
-
----
-
+    A7 -- "Triggers API Calls" --> A5
+    A5 -- "Applies Security" --> A6
+    A6 -- "Verifies User" --> A0
+    A5 -- "Interacts with Data" --> A4
+    A5 -- "Updates Frontend" --> A7
+    A1 -- "Companies Post Jobs" --> A2
+    A0 -- "Users Apply" --> A3
+    A2 -- "Jobs Receive Applications" --> A3
 
 
 ## 📘 Full Tutorial (All Chapters Included)
