@@ -30,3 +30,22 @@ flowchart TD
     A1 -->|Companies Post Jobs| A2
     A0 -->|Users Apply| A3
     A2 -->|Jobs Receive Applications| A3
+
+ Full Tutorial (All Chapters Included)
+🔗 Explore the entire step-by-step tutorial here:
+👉 View on Code2Tutorial.com
+
+🧠 Topics Covered
+🔐 Authentication with JWT
+
+🧾 User & Company Management
+
+🗂️ CRUD for Jobs and Applications
+
+🔄 Redux Toolkit for State Management
+
+🛡️ Protected Routes & Middleware
+
+📦 Mongoose Schema Design
+
+
