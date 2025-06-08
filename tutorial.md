@@ -38,8 +38,8 @@ flowchart TD
 
 ## Chapters
 
-1. [User Authentication & Profile Management
-](01_user_authentication___profile_management_.md)
+[1. [User Authentication & Profile Management
+](01_user_authentication___profile_management_.md)](https://code2tutorial.com/tutorial/907f3622-01a3-4e27-83a3-767dd6bd7a21/01_user_authentication___profile_management_.md)
 2. [Company Management
 ](02_company_management_.md)
 3. [Job Management
