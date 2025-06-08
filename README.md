@@ -1,15 +1,14 @@
-# mern-job-portal-tutorial
-# 💼 Job Portal Tutorial
+# 💼 MERN Job Portal App
 
-This project is a **job portal** that connects **job seekers** and **recruiters**.
+A full-featured **Job Portal** built using the **MERN Stack**.
 
-- 👤 Job seekers can browse & apply for jobs and manage profiles.  
-- 🏢 Recruiters can register companies, post jobs, and handle applications.  
-- 🛠️ Built using a backend API (Node.js, MongoDB) and frontend with React & Redux.
+- 👩‍💻 Job Seekers can register, log in, create profiles & apply for jobs.
+- 🧑‍💼 Recruiters can manage companies, post jobs & handle applications.
+- 🌐 Built with: **MongoDB**, **Express**, **React**, **Node.js**, and **Redux Toolkit**.
 
 ---
 
-## 🔍 Visual Overview
+## 🔎 Visual Overview
 
 ```mermaid
 flowchart TD
@@ -31,21 +30,23 @@ flowchart TD
     A0 -->|Users Apply| A3
     A2 -->|Jobs Receive Applications| A3
 
- Full Tutorial (All Chapters Included)
-🔗 Explore the entire step-by-step tutorial here:
-👉 View on Code2Tutorial.com
 
-🧠 Topics Covered
-🔐 Authentication with JWT
-
-🧾 User & Company Management
-
-🗂️ CRUD for Jobs and Applications
-
-🔄 Redux Toolkit for State Management
-
-🛡️ Protected Routes & Middleware
-
-📦 Mongoose Schema Design
+---
 
 
+
+## 📘 Full Tutorial (All Chapters Included)
+
+> 🔗 **Explore the entire step-by-step tutorial here:**  
+> 👉 [**View on Code2Tutorial.com**](https://code2tutorial.com/tutorial/907f3622-01a3-4e27-83a3-767dd6bd7a21/index.md)
+
+---
+
+## 🧠 Topics Covered
+
+- 🔐 **Authentication with JWT**
+- 🧾 **User & Company Management**
+- 🗂️ **CRUD for Jobs and Applications**
+- 🔄 **Redux Toolkit for State Management**
+- 🛡️ **Protected Routes & Middleware**
+- 📦 **Mongoose Schema Design**
