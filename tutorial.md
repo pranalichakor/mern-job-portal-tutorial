@@ -38,21 +38,21 @@ flowchart TD
 
 ## Chapters
 
-[1. [User Authentication & Profile Management
-((_user_authentication___profile_management_.md))]
-2. [Company Management
+1. [User Authentication & Profile Management]
+(01User Authentication & Profile Management)
+3. [Company Management
 ](02_company_management_.md)
-3. [Job Management
+4. [Job Management
 ](03_job_management_.md)
-4. [Job Applications
+5. [Job Applications
 ](04_job_applications_.md)
-5. [Database Models (Mongoose Schemas)
+6. [Database Models (Mongoose Schemas)
 ](05_database_models__mongoose_schemas__.md)
-6. [Backend API Core (Entry, Routes, Controllers)
+7. [Backend API Core (Entry, Routes, Controllers)
 ](06_backend_api_core__entry__routes__controllers__.md)
-7. [Authentication & Authorization Middleware
+8. [Authentication & Authorization Middleware
 ](07_authentication___authorization_middleware_.md)
-8. [Frontend State Management (Redux Toolkit)
+9. [Frontend State Management (Redux Toolkit)
 ](08_frontend_state_management__redux_toolkit__.md)
 
 ---
